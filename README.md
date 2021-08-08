@@ -12,5 +12,6 @@ Cheer up! You can achieve anything that you want to!
 This was a final project for a class. Total train time was 3 days.
 There's also a demo video included.
 
-Reference: https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10.
-Our codes were modified from this repo.
+## Reference
+https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10.
+Codes were modified from this repo.
